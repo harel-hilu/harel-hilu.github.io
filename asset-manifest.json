@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mecgidish/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/mecgidish/static/js/main.e45c60a4.chunk.js",
+    "main.js.map": "/mecgidish/static/js/main.e45c60a4.chunk.js.map",
+    "runtime-main.js": "/mecgidish/static/js/runtime-main.54a130d0.js",
+    "runtime-main.js.map": "/mecgidish/static/js/runtime-main.54a130d0.js.map",
+    "static/js/2.ee040932.chunk.js": "/mecgidish/static/js/2.ee040932.chunk.js",
+    "static/js/2.ee040932.chunk.js.map": "/mecgidish/static/js/2.ee040932.chunk.js.map",
+    "static/js/3.805b455a.chunk.js": "/mecgidish/static/js/3.805b455a.chunk.js",
+    "static/js/3.805b455a.chunk.js.map": "/mecgidish/static/js/3.805b455a.chunk.js.map",
+    "index.html": "/mecgidish/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/mecgidish/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.ee040932.chunk.js.LICENSE.txt": "/mecgidish/static/js/2.ee040932.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mecgidish/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54a130d0.js",
+    "static/js/2.ee040932.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.e45c60a4.chunk.js"
+  ]
+}
